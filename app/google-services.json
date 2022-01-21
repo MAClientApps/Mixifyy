@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355326748564",
+    "project_id": "mixifyy-9b3b0",
+    "storage_bucket": "mixifyy-9b3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355326748564:android:a05232f6bcc480a7425181",
+        "android_client_info": {
+          "package_name": "com.vinayakmix.mixifyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355326748564-ln7907an5ttdeernrk26lsna7ffah55n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFKPn1FzxDcYowuybcK_UUwWa6cvEahso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355326748564-ln7907an5ttdeernrk26lsna7ffah55n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
